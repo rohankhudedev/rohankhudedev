@@ -1,6 +1,8 @@
-## 👋 Hi there, I'm Rohan Khude
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0EA5E9,100:2563EB&height=220&section=header&text=Rohan%20Khude&fontSize=42&fontColor=ffffff&desc=Tech%20Lead%20|%20Full-Stack%20Developer%20|%20AI%20Enthusiast&descAlignY=65)
 
-### Tech Lead Engineer | Full-Stack Developer | AI & Cloud Enthusiast
+<p align="center">
+<img src="https://skillicons.dev/icons?i=nextjs,react,nodejs,ts,js,php,laravel,tailwind,strapi,docker,aws,azure,mysql,mongodb,redis,git,github,githubactions,jenkins,nginx,vscode" />
+</p>
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=rohankhudedev&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
@@ -17,20 +19,6 @@
 * ☁️ Experienced with **AWS, Azure, and GCP**.
 * 🤖 Passionate about AI, automation, developer experience, and scalable architectures.
 * 🌱 Currently exploring AI Agents, RAG, and modern backend architectures.
-
----
-
-## 🛠️ Tech Stack
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=nextjs,react,nodejs,typescript,javascript,php,laravel,tailwind,strapi,docker,aws,azure,gcp,mysql,mongodb,redis,git,github,githubactions,jenkins,nginx,vscode" />
-</p>
-
----
-
-## 📫 Connect
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](http://linkedin.com/in/rohan-khude)
 
 ---
 
@@ -74,17 +62,10 @@ Built AI-powered tools including:
 
 ---
 
-## 📈 GitHub Stats
-
-![Rohan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=rohankhudedev&show_icons=true&theme=github_dark)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rohankhudedev&layout=compact&theme=github_dark)
-
----
-
 ## 📫 Connect With Me
 
 - 💼 LinkedIn: https://linkedin.com/in/rohan-khude
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](http://linkedin.com/in/rohan-khude)
 - 📧 rohanrkhude@gmail.com
 
 ---
