@@ -5,7 +5,7 @@
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0EA5E9,100:2563EB&height=220&section=header&text=Rohan%20Khude&fontSize=42&fontColor=ffffff&desc=Tech%20Lead%20|%20Full-Stack%20Developer%20|%20AI%20Enthusiast&descAlignY=65)
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=nextjs,react,nodejs,ts,js,php,laravel,tailwind,strapi,docker,aws,azure,mysql,mongodb,redis,git,github,githubactions,jenkins,nginx,vscode" />
+<img src="https://skillicons.dev/icons?i=nextjs,react,nodejs,ts,js,php,laravel,tailwind,docker,aws,azure,mysql,mongodb,redis,git,github,githubactions,jenkins,nginx,vscode" />
 </p>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Rohan%20Khude-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](http://linkedin.com/in/rohan-khude)
