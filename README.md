@@ -1,11 +1,11 @@
+<p align="right">
+  <img src="https://komarev.com/ghpvc/?username=rohankhudedev&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+</p>
+
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0EA5E9,100:2563EB&height=220&section=header&text=Rohan%20Khude&fontSize=42&fontColor=ffffff&desc=Tech%20Lead%20|%20Full-Stack%20Developer%20|%20AI%20Enthusiast&descAlignY=65)
 
 <p align="center">
 <img src="https://skillicons.dev/icons?i=nextjs,react,nodejs,ts,js,php,laravel,tailwind,strapi,docker,aws,azure,mysql,mongodb,redis,git,github,githubactions,jenkins,nginx,vscode" />
-</p>
-
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=rohankhudedev&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Rohan%20Khude-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](http://linkedin.com/in/rohan-khude)
@@ -59,14 +59,6 @@ Built AI-powered tools including:
 - Speech-to-Text integrations
 - Website Trust Scanner
 - Browser Extensions
-
----
-
-## 📫 Connect With Me
-
-- 💼 LinkedIn: https://linkedin.com/in/rohan-khude
-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](http://linkedin.com/in/rohan-khude)
-- 📧 rohanrkhude@gmail.com
 
 ---
 
