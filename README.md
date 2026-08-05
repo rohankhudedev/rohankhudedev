@@ -74,24 +74,6 @@ Built AI-powered tools including:
 
 ---
 
-### Investment Calculator
-
-Developed a high-performance financial calculation engine used in an award-winning investment campaign.
-
----
-
-## 💡 Interests
-
-- Artificial Intelligence
-- Developer Experience
-- System Design
-- Cloud Architecture
-- DevOps
-- Security
-- Open Source
-
----
-
 ## 📈 GitHub Stats
 
 ![Rohan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=rohankhudedev&show_icons=true&theme=github_dark)
@@ -103,7 +85,6 @@ Developed a high-performance financial calculation engine used in an award-winni
 ## 📫 Connect With Me
 
 - 💼 LinkedIn: https://linkedin.com/in/rohan-khude
-- 💻 GitHub: https://github.com/rohankhudedev
 - 📧 rohanrkhude@gmail.com
 
 ---
