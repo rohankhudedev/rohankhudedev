@@ -10,7 +10,12 @@
 <img src="https://skillicons.dev/icons?i=mysql,mongodb,redis,prisma,docker,aws,azure,gcp,git,github,githubactions,jenkins,nginx,vscode,python&perline=15" />
 </p>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Rohan%20Khude-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](http://linkedin.com/in/rohan-khude)
+<p align="center">
+<a href="http://linkedin.com/in/rohan-khude"><img src="https://img.shields.io/badge/LinkedIn-Rohan%20Khude-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://rohankhudedev.github.io/portfolio/"><img src="https://img.shields.io/badge/Portfolio-Visit%20Site-0EA5E9?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
+<a href="mailto:rohanrkhude@gmail.com"><img src="https://img.shields.io/badge/Email-rohanrkhude%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://stackoverflow.com/users/4635388/rohan-khude"><img src="https://img.shields.io/badge/Stack%20Overflow-Rohan%20Khude-F58025?style=for-the-badge&logo=stackoverflow&logoColor=white" /></a>
+</p>
 
 ---
 
