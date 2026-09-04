@@ -5,61 +5,49 @@
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0EA5E9,100:2563EB&height=220&section=header&text=Rohan%20Khude&fontSize=42&fontColor=ffffff&desc=Tech%20Lead%20|%20Full-Stack%20Developer%20|%20AI%20Enthusiast&descAlignY=65)
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=nextjs,react,nodejs,ts,js,php,laravel,tailwind,docker,aws,azure,mysql,mongodb,redis,git,github,githubactions,jenkins,nginx,vscode" />
+<img src="https://skillicons.dev/icons?i=js,ts,php,react,nextjs,nodejs,express,laravel,wordpress,tailwind&perline=10" />
+<br/>
+<img src="https://skillicons.dev/icons?i=mysql,mongodb,redis,prisma,docker,aws,azure,gcp,git,github,githubactions,jenkins,nginx,vscode,python&perline=15" />
 </p>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Rohan%20Khude-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](http://linkedin.com/in/rohan-khude)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Rohan%20Khude-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](http://linkedin.com/in/rohan-khude)
 
 ---
 
 ## 🚀 About Me
-
-* 💼 Tech Lead with 10+ years of experience building enterprise web applications.
-* ⚛️ Specializing in **Next.js, React, Node.js, Laravel, and AI integrations**.
-* ☁️ Experienced with **AWS, Azure, and GCP**.
-* 🤖 Passionate about AI, automation, developer experience, and scalable architectures.
-* 🌱 Currently exploring AI Agents, RAG, and modern backend architectures.
+- 💼 Tech Lead Engineer with 10+ years building enterprise web platforms.
+- ⚛️ Core stack: **Next.js, React, Node.js, PHP/Laravel** — plus headless CMS (Strapi) and AI integrations.
+- ☁️ Own cloud infra end-to-end across **AWS, Azure, and GCP**, with CI/CD (Jenkins, GitHub Actions) and Docker.
+- 🤖 Focused on production AI — LLM integrations, speech/voice interfaces, and conversational tooling.
+- 🌱 Currently exploring AI agents, RAG pipelines, and modern backend architectures.
 
 ---
 
 ## 🏆 Highlights
-
-- 🥇 Built enterprise platforms for **Aditya Birla Group**, **Axis Bank**, **Bandhan Mutual Fund**, **Raymond**, and more.
-- 🌐 Architected a reusable multilingual CMS powering multiple production websites.
-- 🤖 Integrated OpenAI and Azure AI into award-winning customer experiences.
-- 🏅 Contributed to campaigns that won:
-  - **9 Abby Awards**
-  - **2 BFSI Campaign of the Year Awards**
-- 🔐 Experienced in web security, VAPT remediation, performance optimization, and CI/CD.
+- 🏢 Delivered 25+ web, chatbot, and campaign projects for enterprise clients including **Aditya Birla Group, Axis Bank, Bandhan Mutual Fund, and Raymond**.
+- 🌐 Architected a reusable multilingual CMS platform now powering **6+ production sites**.
+- 🤖 Led OpenAI GPT + Azure AI Search integrations into production consumer-facing tools.
+- 🥇 Campaign work recognized with **9 Abby Awards** and **2 BFSI Campaign of the Year** honors.
+- 🔐 Hands-on with VAPT remediation, web app security, performance optimization, and CI/CD pipelines.
 
 ---
 
-## 🚀 Featured Projects
+## 💼 Featured Projects
 
-### Enterprise Corporate Platform
-- Next.js
-- Strapi CMS
-- Azure AI Search
-- Azure OpenAI
-- AWS
-- Docker
-- Jenkins
-- GitHub Actions
+### 🏢 Enterprise Corporate Platform
+Multilingual platform architecture powering multiple corporate websites on a shared headless-CMS foundation.
 
-A multilingual enterprise platform powering multiple corporate websites with a shared architecture and headless CMS.
+`Next.js` `Strapi CMS` `Azure AI Search` `Azure OpenAI` `AWS` `Docker` `Jenkins` `GitHub Actions`
 
----
+### 🔐 AI-Powered Security Suite
+A set of AI-driven consumer tools — password generation, an AI credit-card offer assistant, speech-to-text, a website trust scanner, and companion browser extensions.
 
-### AI Security Tools
+`Next.js` `React` `OpenAI GPT` `Speech-to-Text` `Chrome/Firefox Extensions`
 
-Built AI-powered tools including:
-
-- Password Generator
-- AI Credit Card Recommendation Assistant
-- Speech-to-Text integrations
-- Website Trust Scanner
-- Browser Extensions
+🏅 *Campaign recognized with 9 Abby Awards (1 Gold, 4 Silver, 4 Bronze).*
 
 ---
 
-> *"Building scalable products with clean architecture, modern web technologies, and AI."*
+<p align="center">
+<i>Building scalable products with clean architecture, modern web technologies, and AI.</i>
+</p>
