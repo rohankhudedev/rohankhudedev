@@ -37,19 +37,32 @@
 
 ---
 
-## 💼 Featured Projects
+---
 
-### 🏢 Enterprise Corporate Platform
-Multilingual platform architecture powering multiple corporate websites on a shared headless-CMS foundation.
+## 🧰 Technical Skills
 
-`Next.js` `Strapi CMS` `Azure AI Search` `Azure OpenAI` `AWS` `Docker` `Jenkins` `GitHub Actions`
+<details>
+<summary>Click to expand</summary>
 
-### 🔐 AI-Powered Security Suite
-A set of AI-driven consumer tools — password generation, an AI credit-card offer assistant, speech-to-text, a website trust scanner, and companion browser extensions.
+**Languages:** JavaScript, TypeScript, PHP
 
-`Next.js` `React` `OpenAI GPT` `Speech-to-Text` `Chrome/Firefox Extensions`
+**Frontend:** React.js, Next.js, Tailwind CSS, HTML5/CSS3, Progressive Web Apps (PWA)
 
-🏅 *Campaign recognized with 9 Abby Awards (1 Gold, 4 Silver, 4 Bronze).*
+**Backend & CMS:** Node.js, Express.js, Laravel, WordPress, Strapi (Headless CMS), REST APIs
+
+**Cloud Platforms:** AWS (EC2, S3, RDS, Lambda, CloudWatch, CloudFormation), Microsoft Azure (Cognitive Services, AI Search), Google Cloud Platform (GCP)
+
+**DevOps:** GitHub Actions, Docker, Jenkins, CI/CD Pipelines, Nginx, Git
+
+**AI & Conversational Interfaces:** OpenAI GPT / LLM Integration, Azure AI Search, AWS Lex, AWS Polly, n8n Workflow Automation, Chatbot Development (WhatsApp, Messenger, Alexa Skills, Google Actions)
+
+**Databases:** MySQL, MongoDB, Redis, Prisma ORM
+
+**Security, Performance & Practices:** VAPT (Vulnerability Assessment & Penetration Testing), Web Application Security, REST API Design, Performance Optimization, Web Accessibility, Agile/Scrum
+
+</details>
+
+---
 
 ---
 
