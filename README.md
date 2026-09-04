@@ -41,9 +41,6 @@
 
 ## 🧰 Technical Skills
 
-<details>
-<summary>Click to expand</summary>
-
 **Languages:** JavaScript, TypeScript, PHP
 
 **Frontend:** React.js, Next.js, Tailwind CSS, HTML5/CSS3, Progressive Web Apps (PWA)
@@ -59,10 +56,6 @@
 **Databases:** MySQL, MongoDB, Redis, Prisma ORM
 
 **Security, Performance & Practices:** VAPT (Vulnerability Assessment & Penetration Testing), Web Application Security, REST API Design, Performance Optimization, Web Accessibility, Agile/Scrum
-
-</details>
-
----
 
 ---
 
